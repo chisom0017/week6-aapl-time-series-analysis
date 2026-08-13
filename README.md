@@ -103,19 +103,6 @@ For detailed findings and recommendations, see the Insight Summary included in t
 | `Week6_AAPL_Insight_Summary.docx` | Insight Summary containing findings and recommendations |
 | `requirements.txt` | Python libraries required to run the project |
 
-## How to Run the Project
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/chisom0017/week6-aapl-time-series-analysis.git
-
-pip install -r requirements.txt
-
-Open:
-week6_AAPL_TimeSeries.ipynb
-
-Run the notebook cells from top to bottom to reproduce the analysis.
 
 ## Learning Outcomes
 
