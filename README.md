@@ -110,4 +110,38 @@ For detailed findings and recommendations, see the Insight Summary included in t
 ```bash
 git clone https://github.com/chisom0017/week6-aapl-time-series-analysis.git
 
+```bash
 pip install -r requirements.txt
+
+```bash
+Open:
+week6_AAPL_TimeSeries.ipynb
+
+Run the notebook cells from top to bottom to reproduce the analysis.
+
+## Learning Outcomes
+
+This project strengthened my skills in:
+
+Python for Data Analysis
+Pandas
+Time-Series Analysis
+Feature Engineering
+Data Visualization
+Financial Data Analysis
+Exploratory Data Analysis
+Internship
+
+AnalystLab Africa — Week 6 Advanced Python Analysis
+
+## Author
+
+Chisom Nwangele
+
+Data Analyst | Python | SQL | Excel | Power BI
+
+## Acknowledgement
+
+This project was completed as part of the AnalystLab Africa Data Analytics Internship.
+
+#Python #DataAnalysis #TimeSeriesAnalysis #Pandas #DataScience #Analytics #AnalystLabAfrica
