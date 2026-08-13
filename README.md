@@ -110,10 +110,8 @@ For detailed findings and recommendations, see the Insight Summary included in t
 ```bash
 git clone https://github.com/chisom0017/week6-aapl-time-series-analysis.git
 
-```bash
 pip install -r requirements.txt
 
-```bash
 Open:
 week6_AAPL_TimeSeries.ipynb
 
